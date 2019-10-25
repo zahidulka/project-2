@@ -1,0 +1,580 @@
+/*===============================================
+(min-width: 991px) and (max-width: 1280px)
+==================================================*/
+@media (min-width: 991px) and (max-width: 1280px) {
+.courses .owl-carousel .owl-nav .owl-prev,
+.testimonials .owl-carousel .owl-nav .owl-prev,
+.events .owl-carousel .owl-nav .owl-prev,
+.blog .owl-carousel .owl-nav .owl-prev{
+	left: -55px;
+}
+.courses .owl-carousel .owl-nav .owl-next,
+.testimonials .owl-carousel .owl-nav .owl-next,
+.events .owl-carousel .owl-nav .owl-next,
+.blog .owl-carousel .owl-nav .owl-next {
+	right: -55px;
+}
+    
+
+}/*===============================================*/
+
+/*===============================================
+(min-width: 768px) and (max-width: 991px)
+==================================================*/
+@media only screen and (min-width: 768px) and (max-width: 991px){
+ 
+body, button, input, select, optgroup, textarea {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        color: #252525;
+        line-height: 25px;
+        position: relative;
+}
+/*===========================================================
+  silber bell educationnal platform  
+=============================================================*/
+.intro-img {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+}  
+.intro-details {
+    max-height: 250px;
+    margin: 0px auto 39px;
+    padding: 0 80px 0 80px;
+    width: 94%;
+}
+.single-intro-top {
+    width: 69%;
+    margin: 0 auto;
+}
+/*===========================================================
+  Popular course We ooffer
+=============================================================*/
+.intro-details {
+    max-height: 250px;
+    margin: 0px auto 39px;
+    padding: 0 10px 0 10px;
+    width: 94%;
+}
+.news-meta span {
+    padding: 0px 6px;
+}
+    
+/*===========================================================
+    Teachres and
+=============================================================*/
+.col-12.col-lg-3.col-md-6 {
+    width: 50%;
+    float: left;
+}
+    
+/*===========================================================
+  Video inner section-3
+=============================================================*/ 
+.block-text h2 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.bg-1{
+    background-repeat: repeat;
+    background-size: 100% 44%;
+    background-position: inherit;
+    padding: 25px 0;
+}
+.intro-img {
+    width: 100%;
+    height: 260px;
+    margin: 0 auto;
+} 
+.owl-carousel.multimedia-slider.owl-theme.owl-loaded 
+.owl-controls .owl-dots {
+    margin-left: -62px;
+    margin-bottom: -10px;
+}   
+
+
+/*
+EnnRoll Form
+=======================================================*/
+input[type="email"], input[type="text"] {
+    padding: 20px 0;
+}
+.form_group {
+        padding: 15px 0;
+        font-size: 21px;
+}
+input[type="email"], input[type="text"], textarea {
+        padding-left: 10px;
+        font-size: 21px;
+}
+.skill-main .single-skill canvas {width:130px; height: 30px;}   
+.single-skill .circle strong {margin: -37px 0px 0px -18px;}  
+.enroll-right {padding-top: 65px;}
+.enroll-section {
+        background-repeat: repeat;
+        background-size: 105% 45%;
+        background-position: -1% 102%;
+}
+.register-area:before {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        background: #000;
+        opacity: .5;
+        top: 0;
+        left: 0;
+}
+.register-area {
+        background: none;
+        height: auto;
+        position: relative;
+        z-index: 1;
+        margin: 45px 0;
+}
+.register-area {padding: 0;}
+.skill-main .row .col-md-4 {
+    max-width: 33.333333%;
+    -wetkit-box-flex: 0;
+    flex: 0 0 33.333333%;
+    float: left;
+} 
+/*   testimonial slider
+=====================================================*/
+.testimonial-slider-area {
+    padding: 60px 0;
+}
+.single-testimonial p {
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 0;
+}  
+.single-testimonial h3 {margin-bottom: 7px;}  
+.single-testimonial {
+        padding: 41px 70px;
+        padding-right: 10px;
+        margin-top: 40px;
+}
+img.testimonial-img {left: 84%; }
+.single-testimonial:before {width: 62px;}  
+.testimonial-content:before {left: 15px;}
+
+
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-prev{left: -43px;}
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-next{right: -43px;}
+
+    
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag
+ .owl-nav button.owl-prev{
+        left: -80px;
+}
+   
+.owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-prev{left: -43px;}
+.owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-next{right: -43px;}
+   
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag 
+.owl-nav button, .owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag 
+.owl-nav button {
+        width: 35px;
+        height: 35px;
+        background: #00000042;
+        color: #fff;
+        border-radius: 100%;
+        font-size: 25px;
+        position: absolute;
+        top: 50%;
+        outline: none;
+        margin-bottom: 35px;
+} 
+ /* All pages pagenition
+====================================*/   
+ 
+    
+   
+    
+    
+}/*===============================================*/
+/*===============================================
+(max-width: 767px)
+==================================================*/
+@media only screen and (max-width: 767px){
+
+/*Body 
+===================================*/
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 13px;
+	color: #252525;
+	line-height: 21px;
+}
+/*================================================
+  interduction section  
+====================================================*/
+    
+.intro-title.text-center> h2 {
+    font-size: 18px;
+}
+h2.bdrr:before {
+    width: 3px;
+    height: 25px;
+    left: -8px;
+    margin-bottom: 9px;
+}
+.intro-details> h3 {
+    font-size: 17px;
+}
+
+
+
+/*===============================
+    Video content play
+================================*/
+.section-2 {
+    padding: 30px 0;
+}
+.block-text h2 {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.block-text p {
+    margin-bottom: 25px;
+}
+ 
+/*==============================================
+Popular course we offer
+==============================================*/
+.intro-text> h3 {
+    font-size: 17px;
+}
+.intro-text p {
+    padding: 5px 0;
+}
+    .section-3 {
+    padding: 25px 0;
+}
+.owl-carousel.multimedia-slider.owl-theme.owl-loaded .owl-controls .owl-dot {
+    width: 7px;
+    height: 7px;
+}  
+
+/*==============================================
+    Enroll section
+==============================================*/
+    
+/*form*/
+.register-wrapp p {
+   
+    font-family: sans-serif;
+    }
+.bg-6 {
+    
+    position: relative;
+    z-index: 1;
+    padding: 15px 0;
+}
+    
+   
+.form-title-wapp p{ margin: 0}
+.form-title-wapp h2, .section-title h2{font-size: 20px; margin: 0;}  
+form.form {padding: 0px 30px;}
+input[type="email"], 
+input[type="text"] {padding: 7px 0;padding-left: 5px;}
+textarea {padding: 0px 0px 50px 0px;}
+
+.form_group.button.button .btn {margin-bottom: 20px;padding: 9px;}
+.form_group {padding: 4px 0;}
+.single-skill .circle strong {top: 95%;left: 27%;margin: -79px 4px 0px -17px;}  
+.single-skill {text-align: center;margin-top: 19px;}
+.enroll-text-area h2, enroll-text-area {font-size: 22px; margin-top: 35px;}
+.enroll-text-area p {margin-bottom: 0;}
+.circle h4 {position: absolute;left: 55%;top: 35%; color: #fff;}
+/*==============================================
+    form secrion
+=================================================*/
+.register-wrapp p {line-height: 23px;margin-top: 20px;}
+.register-wrapp h2 {font-size: 22px;line-height: 1.5;}
+.register-wrapp {padding: 30px;}
+.register-area {
+    height: auto;
+    padding: 2px 0;
+    position: relative;
+    z-index: 1;
+    margin: 15px 0;
+}
+/*===================================================
+    our qwesome teachers
+======================================================*/
+ .awesome-teacher {
+    padding: 31px 0;
+}   
+
+/*===================================================
+    testimonial slider
+======================================================*/
+.testimonial-slider-area {  
+    background-position: -50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100% 98%;
+    padding: 30px 0;
+    position: relative;
+    z-index: 1;
+}    
+ /*===================================================
+News and blog
+======================================================*/
+.news-meta span {
+    padding: 0px 8px;
+}  
+    
+/*===================================================
+    upcoming event slider
+======================================================*/
+    .section-7 {
+    padding: 30px 0;
+}
+
+.single-testimonial:before  {width: 50px;}
+.testimonial-content:before {left: 16px;font-size: 26px; bottom: 39px;}
+.testimonial-content:after {font-size: 26px; right: 16px;}
+.single-testimonial h3 {font-size: 18px;font-weight: 700;margin-bottom: 8px;}
+.single-testimonial p {line-height: 18px;font-size: 13px;}
+img.testimonial-img {left: 78%;}
+.single-testimonial {padding: 39px 0px;margin-top: 37px;padding-left:55px;padding-right: 30px;}
+    
+/*===================================================
+    single Event
+======================================================*/    
+/*top navigation*/
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag 
+.owl-nav button, .owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag 
+.owl-nav button {
+        width: 29px;
+        height: 28px;
+        background: #6f42c1;
+        color: #fff;
+        font-size: 20px;   
+}
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-prev,
+.owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-prev {
+        left: -12px;
+}
+.owl-carousel.testimonial-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-next,
+.owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag
+.owl-nav button.owl-next {
+        right: -12px;
+}
+    
+.owl-carousel.event-slider.owl-theme.owl-loaded.owl-drag.owl-theme .owl-nav {
+    display: none;
+    visibility: hidden;
+}
+/*=============================================================
+    All images backgrond section
+==============================================================*/
+.enroll-section {
+        background-repeat: repeat;
+        background-size: 447px 445px;
+        background-position: -17% -4%;
+    }
+/*============================================================
+    footer bottom section
+==============================================================*/  
+.footer-top-area {
+        padding: 0;
+        background-repeat: repeat;
+        background-size: 434px 298px;
+        background-position: 68% -8%;
+}
+.single-widget h2 {
+        font-size: 17px;
+        margin-bottom: 10px;
+        padding-bottom: 7px;
+    
+}
+.single-widget p {
+        line-height: 1.6;
+        margin-bottom: 9px;
+}
+.footer-adress-area>ul>li, .footer-link-wrapp>ul>li {line-height: 25px;}
+.single-widget-link, .single-widget{
+        line-height: 1.6;
+        margin-top: 25px;}
+.latest-post-wrapp img {top: 0px;}
+.latest-post-wrapp {margin-bottom: 32px;}
+
+.footer-top-area
+.single-widget 
+.subcribe-input-area input[type="text"] {
+        margin-top: -11px;
+        margin-bottom: 25px;
+        height: 42px;
+}
+.subcribe-input-area form button {height: 42px;}
+ul.social-link li a {padding: 0 15px;}
+ul.social-link {margin: 0px 0px 3px 0px;}
+.copy-write{ 
+}  
+
+/*All  About Pages
+===========================================================*/  
+.single-page-cover {
+    height: 230px;
+}
+.aboutus-padding {
+    padding-top: 15px;
+}
+section.about-teacher-section {
+    padding: 18px 0;
+}
+.page-cover-wrap h2 {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+.page-cover-wrap>a {
+    padding: 2px 10px 3px 11px;
+}
+
+.page-cover-wrap a {
+    font-size: 14px;
+    font-weight: 500;
+}
+.aboutus-text h2 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+.aboutus-text .button .btn {
+    padding: 8px 15px 8px 17px;
+    font-size: 13px;
+}
+section.allevent-padding {
+    padding: 20px 0;
+}
+/* Single pages
+=====================================*/
+section.single-course .single-main {
+    padding: 0px;
+    margin: 15px 0;
+}
+.course-feature h4 {
+    padding: 11px 20px;
+    font-size: 18px;
+}   
+.course-feature h4:before {
+    bottom: 6px;
+    left: 16px;
+}   
+.course-feature {
+    margin-top: 15px;
+}
+ul.single-course-meta li {
+    display: inline-block;
+    padding: 0px 3px 0px 35px;
+    position: relative;
+}
+.featured-img {
+  display: inline-block;
+    float: none;
+    padding-top: 20px;
+    padding-right: 40px;
+    width: 208px;
+}
+img.course-meta {
+    width: 60px;
+    border-radius: 50%;
+    float: left;
+    margin-top: -10px;
+    margin-right: 10px;
+}
+    .featured-img span {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: -5px;
+    float: left;
+}
+p.single-pric {
+    color: #6f42c1;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    padding-top: 10px;
+    padding: 0 40px;
+    margin-top: 11px;
+}
+    
+/* Single Event
+=====================================*/
+aside.right-sideber {border-left: none;} 
+aside.right-sideber, .event-content-wrapper {margin: 15px 0;}
+.button .btn {padding: 8px 21px;}
+.sidebar-wrapper {margin-left: 0px;margin-bottom: 20px;} 
+.single-event-content h2 {font-size: 21px;margin-bottom: -19px;}      
+/*===================================
+    All Blog Section
+=====================================*/  
+.all-blog-wrapper {padding: 15px 0;}
+/*blockQuete*/
+blockquote:before {top: 5px;left: 11px;font-size: 26px;}
+blockquote p {padding: 7px 4px 10px 46px;font-size: 14px;}
+/*contact page*/
+.contact-information-area {padding: 20px 0;}
+img.google-img {min-height: 282px;}
+.google-map {width: 100%; height: 275px; margin-bottom: 40px;}
+.contact-info-footer .row .col-md-3 .contact-wrapper i, 
+.contact-info-footer .row .col-md-3 .contact-wrapper a i {
+    width: 40px;
+    height: 39px;
+    line-height: 33px;
+    font-size: 16px;
+    }
+.contact-info-footer {
+    padding-top: 40px;
+}
+.contact-wrapper {
+    padding: 15px 0px;
+} 
+/* 
+=====================================*/
+/*All pages pagenation
+=====================================*/
+ul.paginations li a {
+    padding: 8px 18px;   
+}
+    
+    
+    
+    
+    
+/*
+All testimonial page
+====================================*/   
+ .aboutus-padding.custom-padding {
+    padding-bottom: 30px;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}/*===============================================*/
